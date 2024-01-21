@@ -1,0 +1,62 @@
+body{
+    background-color: #1E202B;
+    color: #fff !important;
+}
+.logo{
+    font-size: 10px;
+    color: rgb(204, 198, 198);
+}
+.logo-image{
+    width: 25%;
+    height: 10%;
+}
+.upper{
+    background-image: url(../images/banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vh;
+}
+.lower{
+    height: 50vh;
+}
+footer{
+    background: #262936;
+}
+.inp{
+    background-color: #1E202B;
+}
+input{
+    border: 0;
+    height: 50px;
+    background-color: #1E202B;
+}
+.last-text{
+    margin:20px 0px 0px 150px;
+    color: rgb(204, 198, 198);
+}
+.fa-brands{
+    background-color: #1E202B;
+}
+.cards{
+    height: 350px;
+    position: absolute;
+    left: 200px;
+    bottom: 20px
+}
+.centered-card{
+    background: linear-gradient(to bottom, #222530 0%,#222530 8%, #262936 8%, #262936 100%);
+}
+.card{
+    background: linear-gradient(to bottom, #2D303D 0%,#2D303D 8%, #323544 8%, #323544 100%);
+}
+.header{
+    color:#BFC1C8;
+}
+.tempr{
+    color: #ffffff;
+    font-size: 90px;
+}
+.nextMin{
+    font-size: 24px;
+    font-weight: bold;
+}
